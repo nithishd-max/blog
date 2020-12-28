@@ -10,7 +10,7 @@ const About =() =>(
                     </h1>
                     <div className="subheading mb-5">
                     H.no 4-8-263-27-2, Pulivendula, 516390, India.
-                        <a href="mailto:name@email.com">kumarnithish0905@gmail.com</a>
+                        <a href="mailto:kumarnithish0905@gmail.com">kumarnithish0905@gmail.com</a>
                     </div>
                     <p className="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
                     <div className="social-icons">
